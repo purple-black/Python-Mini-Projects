@@ -1,7 +1,9 @@
 '''
 pong game in python 
 turtle --- module used for graphics
-if the player A wont catch the ball, player B willget one point
+if the player A wont catch the ball, player B will get one point
+Player A will use w and s on keyboard to move their paddle up and down respectively
+and Player B will use Up and Down on keyboard to move their paddle up and down respectively
 '''
 
 
