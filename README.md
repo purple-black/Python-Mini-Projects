@@ -11,4 +11,5 @@ This repository includes mini beginner level python projects
 3. Calculator
    - Calculator that performs addition,
      subtraction, division and multiplication 
-     on two values at a time made using tkinter.
+     on two values at a time
+   - GUI made using tkinter.
